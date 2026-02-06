@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>🔐 Password Generator</h1>
+      <h1>🔐 Password Manager</h1>
 
       <input value={password} readOnly />
 
